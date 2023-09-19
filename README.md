@@ -4,13 +4,11 @@
  
 </div>
 
+<div align="center">
 
 I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core development. With a keen eye for detail and a strong drive to deliver high-quality solutions, I strive to create efficient, scalable, and user-friendly applications.
 
 <hr/>
-
-<div align="center">
-
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=Dotnet&color=410acc)&nbsp;
@@ -24,6 +22,7 @@ I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core de
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF5722?style=for-the-badge&logo=sql&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhri)
 
 </div>
 
