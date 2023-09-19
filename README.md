@@ -13,6 +13,7 @@
   ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=for-the-badge&logo=blazor&color=6541bf)&nbsp;
   ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-FFA500?style=for-the-badge)
   ![Functional Programming](https://img.shields.io/badge/Functional%20Programming-8B0000?style=for-the-badge)
+  ![Clean Code](https://img.shields.io/badge/Clean%20Code-008000?style=for-the-badge)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-008000?style=for-the-badge)
