@@ -23,6 +23,7 @@
   ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
   ![LINQ](https://img.shields.io/badge/LINQ-009688?style=for-the-badge&logo=linq&logoColor=white)
   ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  ![MVC](https://img.shields.io/badge/MVC-FF5733?style=for-the-badge)
   
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
   
