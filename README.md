@@ -27,4 +27,7 @@
   
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  [![HICMIS](https://img.shields.io/badge/High%20Institute%20for%20Computers%20and%20Management%20Information%20Systems-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/high-institute-for-computers-and-management-information-systems---hicmis/)
+  
 </div>
