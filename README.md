@@ -1,4 +1,3 @@
-
 <div align="center">
 
  ## Hi there! 👋 I'm Abdelrahman Alfawakhry
@@ -16,6 +15,8 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=Dotnet&color=410acc)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=for-the-badge&logo=blazor&color=6541bf)&nbsp;
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-FFA500?style=for-the-badge)
+
 </div>
 
 <div align="center">
@@ -30,6 +31,3 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-<div align="center">
-
