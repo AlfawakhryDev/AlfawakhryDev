@@ -16,6 +16,7 @@ I am a passionate software engineer with a focus on C# and ASP.NET Core developm
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=Dotnet&color=410acc)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=for-the-badge&logo=blazor&color=6541bf)&nbsp;
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-FFA500?style=for-the-badge)
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-8B0000?style=for-the-badge)
 
 </div>
 
