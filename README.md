@@ -1,44 +1,35 @@
-# Awesome Project Name
 
-![Project Logo](logo.png)
+<div align="center">
 
-## Overview
+ ## Hi there! 👋 I'm Abdelrahman Alfawakhry
+ 
+</div>
 
-Welcome to Awesome Project Name! This is a brief introduction to what this project does and why it's awesome.
 
-## Features
+I am a passionate software engineer with a focus on C# and ASP.NET Core development. With a keen eye for detail and a strong drive to deliver high-quality solutions, I strive to create efficient, scalable, and user-friendly applications.
 
-- 🔥 Feature 1: Describe what this feature does.
-  
-  ![Feature 1 GIF](gifs/feature1.gif)
+<hr/>
 
-- 🌟 Feature 2: Explain the second fantastic feature.
-  
-  ![Feature 2 GIF](gifs/feature2.gif)
+<div align="center">
 
-- 💡 Feature 3: Highlight another cool feature.
-  
-  ![Feature 3 GIF](gifs/feature3.gif)
 
-## Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&logo=Dotnet&color=410acc)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=for-the-badge&logo=blazor&color=6541bf)&nbsp;
+</div>
 
-This project is built with a cutting-edge tech stack:
+<div align="center">
 
-- 🚀 .NET Core: Describe why .NET Core is awesome for your project.
-- 🌐 ASP.NET Core: Mention how ASP.NET Core is used for web development.
-- 📦 Entity Framework Core: Explain how Entity Framework Core is utilized for data access.
-- 🛠️ Other Technologies: List any other technologies or tools you've used.
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
-## Getting Started
+</div>
 
-Follow these steps to get the project up and running on your local machine.
+<div align="center">
 
-1. **Prerequisites**: Describe any software or dependencies that need to be installed.
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-2. **Installation**: Provide installation instructions.
+</div>
 
-```bash
-git clone https://github.com/yourusername/awesome-project.git
-cd awesome-project
-dotnet restore
-dotnet run
+<div align="center">
+
