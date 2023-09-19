@@ -25,6 +25,8 @@ I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core de
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF5722?style=for-the-badge&logo=sql&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-009688?style=for-the-badge&logo=linq&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 </div>
 
