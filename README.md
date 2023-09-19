@@ -23,6 +23,7 @@ I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core de
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF5722?style=for-the-badge&logo=sql&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
