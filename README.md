@@ -20,8 +20,6 @@
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-008000?style=for-the-badge)
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-FF5722?style=for-the-badge&logo=sql&logoColor=white)
   ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
   ![LINQ](https://img.shields.io/badge/LINQ-009688?style=for-the-badge&logo=linq&logoColor=white)
