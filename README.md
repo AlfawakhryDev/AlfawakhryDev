@@ -2,7 +2,8 @@
   
   [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhri)
 
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
   ## Hi there! 👋 I'm Abdelrahman Alfawakhry
 
   I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core development. With a keen eye for detail and a strong drive to deliver high-quality solutions, I strive to create efficient, scalable, and user-friendly applications.
