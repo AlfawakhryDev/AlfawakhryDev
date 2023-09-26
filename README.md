@@ -4,6 +4,8 @@
 
   ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
   ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+  ![Big O Notation](https://img.shields.io/badge/Big%20O%20Notation-FF5733?style=for-the-badge)
+
   ## Hi there! 👋 I'm Abdelrahman Alfawakhry
 
   I am a passionate software engineer with a focus on C#, C++, and ASP.NET Core development. With a keen eye for detail and a strong drive to deliver high-quality solutions, I strive to create efficient, scalable, and user-friendly applications.
