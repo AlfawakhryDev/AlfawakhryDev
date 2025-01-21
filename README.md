@@ -1,8 +1,8 @@
 <div align="center">
   
-  [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhri)
+  [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfawakhry/)
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abdelrahman_alfawakhry)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Alfawakhry/)
   ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 
