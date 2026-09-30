@@ -111,11 +111,7 @@ I'm also a **mobile developer**. I trained in native mobile development through 
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhryx/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="footer" />
 
