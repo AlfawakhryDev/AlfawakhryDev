@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhryx/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Alfawakhry)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Alfawakhry)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfawakhrydev)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alfawakhrydev.alfawakhrydev&left_color=6541bf&right_color=410acc" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/alfawakhrydev?style=for-the-badge&logo=github&color=6541bf" alt="Followers" />
