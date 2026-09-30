@@ -10,10 +10,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfawakhryx/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Alfawakhry)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abdelrahman_alf2)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Alfawakhry)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfawakhrydev)
 
-<img src="https://komarev.com/ghpvc/?username=alfawakhrydev&label=Profile%20views&color=6541bf&style=for-the-badge" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alfawakhrydev.alfawakhrydev&left_color=6541bf&right_color=410acc" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/alfawakhrydev?style=for-the-badge&logo=github&color=6541bf" alt="Followers" />
 
 </div>
@@ -107,17 +107,7 @@ I'm also a **mobile developer**. I trained in native mobile development through 
   <img src="https://leetcard.jacoblin.cool/Alfawakhry?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" width="48%" />
 </a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-abdelrahman__alf2-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abdelrahman_alf2)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alfawakhrydev&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+[![HackerRank](https://img.shields.io/badge/HackerRank-Alfawakhry-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Alfawakhry)
 
 </div>
 
